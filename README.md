@@ -3,7 +3,7 @@
 A professional-grade data visualization tool for tracking global COVID-19 trends. This application uses **Dash** and **Plotly** to provide interactive insights into infection rates, mortality statistics, and country-level comparisons.
 
 ## 🚀 Live Demo
-[Insert your Vercel URL here]
+https://covid-analysis-project.vercel.app/
 
 ## ✨ Features
 * **MIT-Level UI:** Custom dark-academic theme with high-contrast Ivory text.
