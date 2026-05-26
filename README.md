@@ -19,6 +19,6 @@ https://covid-analysis-project.vercel.app/
 * **Deployment:** Vercel (Serverless Functions)
 
 ## 📦 Installation
-1. Clone the repo: `git clone https://github.com/usmanaliclouds-jpg/Covid19-Atatistical-Analysis.git`
+1. Clone the repo: `git clone https://github.com/usmanaliclouds-jpg/Covid19-Statistical-Analysis.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run locally: `python final_fixed.py`
